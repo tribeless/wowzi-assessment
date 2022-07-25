@@ -63,4 +63,5 @@ The api directory is where http request are configured.
 ####Remarks
 ```bash
 I hope you enjoy using and going through the app/code as much as I enjoyed creating it :)
+-The application uses infinite-scrolling as a better way to handle pagination.
 ```
